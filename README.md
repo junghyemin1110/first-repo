@@ -6,3 +6,4 @@ This project is to learn about git.
 -Who am I?
 -Where are i lived?
 -what I do?
+-Why i study this program?
